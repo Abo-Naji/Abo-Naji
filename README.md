@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Abo-Naji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abo-Naji/Abo-Naji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm @ Abo-Naji.
+I'm interested in Java and HTML and Python and C++ and CSS and PHP.
+ I’m looking to collaborate on learning.
+Need Anything go : abonaji.al.abdali@gmail.com
